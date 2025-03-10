@@ -55,7 +55,6 @@ Visualization	Business Impact
 - Affordable Restaurants (Table: Price < ₹500)	Helps budget-conscious customers find quality options.
 
 ## 🎯 Business Impact:
-1. 30% improvement in restaurant onboarding strategy – Prioritized high-rated cuisines for better customer retention.
-2. Informed city expansion decisions – Identified Bangalore as an underutilized high-rated market.
-3. Better pricing recommendations – Found that mid-range restaurants have the highest retention rates.
+1. Improvement in restaurant onboarding strategy – Prioritized high-rated cuisines for better customer retention.
+2. Informed locations expansion decisions – Identified Laxmi Nagar as a High-restaurants market.
 4. Enhanced user satisfaction – Suggested promotions on high-rated, low-cost restaurants for better engagement.
