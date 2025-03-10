@@ -35,6 +35,8 @@ Swiggy must balance restaurant variety, affordability, and customer satisfaction
 ## 📊 Power BI Dashboard Overview
 Designed an interactive dashboard to help Swiggy’s operations team, marketing managers, and business analysts optimize restaurant performance.
 
+![image alt](https://github.com/GauravLayak/Swiggy-Data-Analysis/blob/90de0ccfe6a984f580f655a4b7f06a36d2c92a4c/Report%20Overview.png)
+
 ## 📌 Key Dashboard Components
 ✅ KPI Cards:
 Total Orders – Displays restaurant volume trends.
